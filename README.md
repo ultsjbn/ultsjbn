@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I’m Bea, a 2nd year BS Computer Science student at UP Baguio.
-I’m passionate about turning design ideas into beautiful, functional web interfaces. My toolkit includes Java, HTML, CSS, JavaScript, and I’m currently diving into React and Figma to grow as a front-end developer and UI/UX designer.
+I’m passionate about turning design ideas into pretty and functional interfaces. I’m currently diving into React and Figma to grow as a front-end developer and UI/UX designer.
 
 Outside of code and design, you’ll find me watching anime, exploring photography, or traveling to new places. I’m always eager to learn more and collaborate on creative, user-centered projects.
 
